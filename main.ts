@@ -293,8 +293,6 @@ export default class MyPlugin extends Plugin {
 
 					if ( !isNormalChar(prevChar) ) currentMode = SPECIAL_CHAR_WORD;
 
-					print("ive reached this point")
-
 					while ( currentMode == isNormalChar( prevChar )
 					&& prevChar != " "
 					&& 0 < prevCursor.ch) {
@@ -360,7 +358,6 @@ export default class MyPlugin extends Plugin {
 					let line = editor.getLine( cursor.line )
 
 					editor.setCursor(cursor.line, line.length)
-					print("hello")
 					editor.exec('newlineAndIndent')
 				}
 				repeatUntilKeyUp(code, this)

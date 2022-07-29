@@ -1,6 +1,6 @@
 {
 	"name": "document-editing-shortcuts",
-	"version": "0.1",
+	"version": "0.0.1",
 	"description": "remap document editing shortcuts, reduce the use of a mouse",
 	"main": "main.js",
 	"scripts": {
