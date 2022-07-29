@@ -6,7 +6,7 @@ A lot of work and free time has gone into making this plugin as polished as poss
 
 ## Shortcuts
 
-All shortcuts will ==repeat== if you hold the buttons you mapped to perform them.
+All shortcuts will <mark>repeat</mark> if you hold the buttons you mapped to perform them.
 Here's what's completed and needs to be done
 
 ### Done
