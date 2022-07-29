@@ -33,4 +33,5 @@ Here's what's completed and needs to be done
 * [ ] Navigate a defined (in settings) amount of lines up and down
 * [ ] All document navigation settings for line up and down should have a companion shortcut to scroll with the cursor
 * [ ] Scroll up and down
+* [ ] Center scroll relative to cursor
 * [ ] More to be added ...
