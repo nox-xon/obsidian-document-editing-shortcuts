@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.1",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "document-editing-shortcuts",
+	"version": "0.1",
+	"description": "remap document editing shortcuts, reduce the use of a mouse",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

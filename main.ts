@@ -1,5 +1,4 @@
-import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting } from 'obsidian';
-import {json} from "stream/consumers";
+import { Editor, Plugin} from 'obsidian';
 
 // Remember to rename these classes and interfaces!
 
