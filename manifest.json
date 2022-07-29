@@ -1,8 +1,8 @@
 {
 	"id": "document-editing-shortcuts",
 	"name": "Document Editing Shortcuts",
-	"version": "0.1",
-	"minAppVersion": "0.1",
+	"version": "0.0.1",
+	"minAppVersion": "0.12.0",
 	"description": "remap document editing shortcuts, reduce the use of a mouse",
 	"author": "Happy Grizzly",
 	"authorUrl": "https://github.com/happy-grizzly",
