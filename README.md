@@ -16,7 +16,7 @@ Here's what's completed and needs to be done
 * [x] Delete one word right and left
 * [x] Navigate up and down
 * [x] Add new line (Enter)
-* [x] Start new line (this creates a new line no matter where cursor is)
+* [x] Start new line (this creates a new line below the cursor and navigates there without splitting)
 
 ### Todo
 * [ ] Navigate up down left right with selection
