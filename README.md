@@ -31,4 +31,6 @@ Here's what's completed and needs to be done
 * [ ] Add a setting to adjust repeat delays for each shortcut
 * [ ] Navigate to next and previous heading
 * [ ] Navigate a defined (in settings) amount of lines up and down
+* [ ] All document navigation settings for line up and down should have a companion shortcut to scroll with the cursor
+* [ ] Scroll up and down
 * [ ] More to be added ...
