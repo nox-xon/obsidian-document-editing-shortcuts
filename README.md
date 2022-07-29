@@ -1,6 +1,6 @@
 # Obsidian Document Editing Shortcuts
 
-This plugin tries to take basic document editing shortcuts as well as advanced IDE's and implenents those in obsidian.
+This plugin tries to take basic document editing shortcuts as well as advanced IDE's and implenents those in Obsidian.
 
 A lot of work and free time has gone into making this plugin as polished as possible, although there's still a ton of shortcuts and features to add, you can find them later in the README.
 
