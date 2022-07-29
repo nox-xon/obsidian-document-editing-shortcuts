@@ -26,4 +26,9 @@ Here's what's completed and needs to be done
 * [ ] Delete line
 * [ ] Delete line left and right from cursor
 * [ ] Extend selection (selects word left and right and extends the more you press, similar to how Intellij works)
+* [ ] Expand and collapse sidebar
+* [ ] Navigate up and down, open and close directories in sidebar
+* [ ] Add a setting to adjust repeat delays for each shortcut
+* [ ] Navigate to next and previous heading
+* [ ] Navigate a defined (in settings) amount of lines up and down
 * [ ] More to be added ...
