@@ -2,7 +2,7 @@
 
 This plugin tries to take basic document editing shortcuts as well as advanced IDE's and implements those in Obsidian.
 
-A lot of work and free time has gone into making this plugin as polished as possible, although there's still a ton of shortcuts and features to add, you can find them later in the README.
+It's an ongoing project, so expect more polish and shortcuts added in the future. Feel free to contribute or make requests, even if the your need is already in the todo list, it will help prioritise what to work on and add first.
 
 ## Shortcuts
 
@@ -21,7 +21,7 @@ Here's what's completed and needs to be done
 ### Todo
 * [ ] Navigate up down left right with selection
 * [ ] Navigate one word left and right with selection
-* [ ] Navigate to end and start of line (no md line, but preview line)
+* [ ] Navigate to end and start of line (not the markdown line, the normal line)
 * [ ] Navigate to end and start of line with selection
 * [ ] Delete line
 * [ ] Delete line left and right from cursor
