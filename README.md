@@ -35,3 +35,12 @@ Here's what's completed and needs to be done
 * [ ] Scroll up and down
 * [ ] Center scroll relative to cursor
 * [ ] More to be added ...
+
+## Installation
+### Install from Community Plugins
+Can't do that yet, waiting for approval. Hopefully it will get approved soon.
+Till then a manual installation is required.
+
+### Manual Installation
+Go to Your Vault folder, then show hidden files and folder (Google it).
+Open .obsidian and if there is a folder called "plugins" open it, if not create one with that exact name, and inside create a new folder called "document-editing-shortcuts", inside there place main.js and manifest.json. You will can download those two files from the releases.
