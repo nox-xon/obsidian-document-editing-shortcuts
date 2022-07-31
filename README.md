@@ -2,7 +2,7 @@
 
 This plugin tries to take basic document editing shortcuts as well as advanced IDE's and implements those in Obsidian.
 
-It's an ongoing project, so expect more polish and shortcuts added in the future. Feel free to contribute or make requests, even if the your need is already in the todo list, it will help prioritise what to work on and add first.
+It's an ongoing project, so expect more polish and shortcuts added in the future. Feel free to contribute or make requests, even if what you need is already in the todo list, it will help prioritise what to work on and add first.
 
 ## Shortcuts
 
