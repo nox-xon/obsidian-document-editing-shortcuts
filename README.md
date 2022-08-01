@@ -58,7 +58,7 @@ Till then a manual installation is required.
 * Go inside your vault directory.
 * Show hidden files and folder (Google it).
 * Go inside the .obsidian directory.
-* If there is a directory called "plugins" go inside it, if not create one with that exact name and enter in it.
+* If there is a directory called "plugins" go inside it, if not create one with that exact name and enter it.
 * Inside the plugins directory, create a new directory called "document-editing-shortcuts".
 * Place the manifest.json and main.js files inside the "document-editing-shortcuts" directory you just created.
 * Start or restart Obsidian and it should be in the community plugins tab inside settings.
