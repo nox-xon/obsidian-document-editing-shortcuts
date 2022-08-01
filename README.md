@@ -34,6 +34,10 @@ Here's what's completed and needs to be done
 * [ ] All document navigation settings for line up and down should have a companion shortcut to scroll with the cursor
 * [ ] Scroll up and down
 * [ ] Center scroll relative to cursor
+* [ ] Toggle right click menu with keyboard shortcut
+* [ ] Navigate up, down and select inside right click menu
+* [ ] Toggle command platte (you can only open it with shortcut but not close it)
+* [ ] Navigate up, down and select inside command platte menu
 * [ ] More to be added ...
 
 ## Installation
