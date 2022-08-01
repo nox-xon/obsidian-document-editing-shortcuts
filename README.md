@@ -8,7 +8,7 @@ It's an ongoing project, so expect more polish and shortcuts added in the future
 All the shortcut functions can be performed with arrow keys, backspace, mouse etc on all operating systems.
 I got used to the Unix keyboard shortcuts for document editing plus got spoiled with Jetbrain's familty of IDE's remaps.
 I personally hate reaching out to my arrow keys, even my Enter button, I prefer to Caps Lock J for Enter as an example. (my caps lock is mapped as control).
-The Unix shortcuts don't work that great inside Obsidian and I also use Chrome OS in a secondary laptop. For for Consistancy I decided to create this plugin, and while there are other plugins that have some of this plugin's shortcuts, they are not as extensive plus they do not repeat while holding the buttons to perform them.
+The Unix shortcuts don't work that great inside Obsidian and I also use Chrome OS in a secondary laptop. For consistancy I decided to create this plugin, and while there are other plugins that have some of this plugin's shortcuts, they are not as extensive plus they do not repeat while holding the buttons to perform them.
 
 You can think of this plugin as a decent Vim / Emacs alternative
 
