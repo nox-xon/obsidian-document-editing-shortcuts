@@ -40,6 +40,8 @@ Here's what's completed and needs to be done
 * [ ] Navigate up, down and select inside command platte menu
 * [ ] More to be added ...
 
+Something to note is that it's not entirely clear how simple it is to code some of the shortcuts inside the todo list.
+
 ## Installation
 ### Install from Community Plugins
 Can't do that yet, waiting for approval. Hopefully it will get approved soon.
