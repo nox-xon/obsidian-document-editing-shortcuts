@@ -43,7 +43,7 @@ Here's what's completed and needs to be done
 Something to note is that it's not entirely clear how simple it is to code some of the shortcuts inside the todo list.
 
 ## Clean Ups & Polish
-When I frist started coding the plugin, I didn't know anything about the Editor API so that naively had me code many of these functions from scratch. Some weren't in the API though.
+When I first started coding the plugin, I didn't know anything about the Editor API so that naively had me code many of these functions from scratch. Some weren't in the API though.
 
 1. Those functions that already exist in the Editor API need to be changed to implement that API rather than the manual functions I coded.
 2. Functions that are coded manually should be moved to another typescript file according to the catergory, maybe even inside classes. Dunno yet. but at the moment it's starting to look too unorganised to put everything as functions in 1 file
