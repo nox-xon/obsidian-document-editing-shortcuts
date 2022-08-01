@@ -55,4 +55,4 @@ Till then a manual installation is required.
 
 ### Manual Installation
 Go to Your Vault folder, then show hidden files and folder (Google it).
-Open .obsidian and if there is a folder called "plugins" open it, if not create one with that exact name, and inside create a new folder called "document-editing-shortcuts", inside there place main.js and manifest.json. You will can download those two files from the releases.
+Open .obsidian and if there is a folder called "plugins" open it, if not create one with that exact name, and inside create a new folder called "document-editing-shortcuts", inside there place main.js and manifest.json. You can download those two files from the releases.
