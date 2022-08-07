@@ -4,7 +4,7 @@ This plugin tries to take basic document editing shortcuts as well as advanced I
 
 It's an ongoing project, so expect more polish and shortcuts added in the future. Feel free to contribute or make requests, even if what you need is already in the todo list, it will help prioritise what to work on and add first.
 
-## Why Does this Plugin Exist
+### Why Does this Plugin Exist
 All the shortcut functions can be performed with arrow keys, backspace, mouse etc on all operating systems.
 There are some unix shortcuts that may provide similar functionality, but they are not remap-able by default and not all OSs have them.
 For consistancy this plugin was born.
@@ -49,7 +49,7 @@ Here's what's completed and needs to be done
 
 Something to note is that it's not entirely clear how simple it is to code some of the shortcuts inside the todo list.
 
-## Clean Ups & Polish
+### Clean Ups & Polish
 When I first started coding the plugin, I didn't know anything about the Editor API so that naively had me code many of these functions from scratch. Some weren't in the API though.
 
 1. Those functions that already exist in the Editor API need to be changed to implement that API rather than the manual functions I coded.
