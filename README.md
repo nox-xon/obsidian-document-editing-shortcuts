@@ -17,17 +17,17 @@ All shortcuts will `repeat` if you hold the buttons you mapped to perform them.
 Here's what's completed and needs to be done
 
 ### Done
-* [x] Navigate one character right and left (0.0.1)
-* [x] Navigate one word right and left (0.0.1)
-* [x] Delete one character right and left (0.0.1)
-* [x] Delete one word right and left (0.0.1)
-* [x] Navigate up and down (0.0.1)
-* [x] Add new line (Enter) (0.0.1)
-* [x] Start new line (this creates a new line below the cursor and navigates there without splitting (0.0.1)
+* [x] Navigate one character right and left - v0.0.1
+* [x] Navigate one word right and left - v0.0.1
+* [x] Delete one character right and left - v0.0.1
+* [x] Delete one word right and left - v0.0.1
+* [x] Navigate up and down - v0.0.1
+* [x] Add new line (Enter) - v0.0.1
+* [x] Start new line (this creates a new line below the cursor and navigates there without splitting - v0.0.1
 
 ### Todo
-* [ ] Navigate up down left right with selection
-* [ ] Navigate one word left and right with selection
+* [ ] Navigate up down left right with selection - upcoming v0.0.2
+* [ ] Navigate one word left and right with selection - upcoming v0.0.2
 * [ ] Navigate to end and start of line (not the markdown line, the normal line)
 * [ ] Navigate to end and start of line with selection
 * [ ] Delete line
